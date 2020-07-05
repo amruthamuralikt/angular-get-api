@@ -36,7 +36,7 @@
     </div>
     </nav><br><br><br><br><br><br>
     
-    <div class="ng-view"></div>ghhhghghg<br>
+    <div class="ng-view"></div><br>
    
 </body>
 </html>
